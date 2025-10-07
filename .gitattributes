@@ -1,0 +1,11 @@
+# Set default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Mark common binary formats to avoid EOL conversion
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.h5 binary
+*.joblib binary
+*.pkl binary
+*.zip binary
