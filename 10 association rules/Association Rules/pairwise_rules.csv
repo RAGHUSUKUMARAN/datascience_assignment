@@ -1,0 +1,7 @@
+antecedent,consequent,support,confidence,lift,pair_count
+spaghetti,mineral water,0.059733333,0.343032159,1.439698486,448
+mineral water,spaghetti,0.059733333,0.250699496,1.439698486,448
+chocolate,mineral water,0.052666667,0.321399512,1.348906737,395
+mineral water,chocolate,0.052666667,0.221040851,1.348906737,395
+eggs,mineral water,0.050933333,0.283382789,1.189351382,382
+mineral water,eggs,0.050933333,0.213766088,1.189351382,382

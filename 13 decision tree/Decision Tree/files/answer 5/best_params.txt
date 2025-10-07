@@ -1,0 +1,7 @@
+Best ROC-AUC (CV): 0.81483
+Best params:
+criterion: gini
+max_depth: 9
+max_features: sqrt
+min_samples_leaf: 8
+min_samples_split: 2

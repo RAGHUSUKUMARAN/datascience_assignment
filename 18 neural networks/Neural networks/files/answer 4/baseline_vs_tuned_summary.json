@@ -1,0 +1,81 @@
+{
+  "baseline_metrics": {
+    "accuracy": 0.94175,
+    "precision_macro": 0.9425718585241367,
+    "recall_macro": 0.9414119570644849,
+    "f1_macro": 0.9415497778865703,
+    "precision_weighted": 0.9428214963664228,
+    "recall_weighted": 0.94175,
+    "f1_weighted": 0.9418446995258499,
+    "n_test_samples": 4000
+  },
+  "tuned_metrics": {
+    "accuracy": 0.96175,
+    "precision_macro": 0.9620157828343546,
+    "recall_macro": 0.9616070187215804,
+    "f1_macro": 0.9615905376486279,
+    "precision_weighted": 0.9621908960253778,
+    "recall_weighted": 0.96175,
+    "f1_weighted": 0.9617487297352486,
+    "n_test_samples": 4000
+  },
+  "comparison": [
+    {
+      "metric": "accuracy",
+      "baseline": 0.94175,
+      "tuned": 0.96175,
+      "delta": 0.020000000000000018
+    },
+    {
+      "metric": "precision_macro",
+      "baseline": 0.9425718585241367,
+      "tuned": 0.9620157828343546,
+      "delta": 0.019443924310217908
+    },
+    {
+      "metric": "recall_macro",
+      "baseline": 0.9414119570644849,
+      "tuned": 0.9616070187215804,
+      "delta": 0.020195061657095503
+    },
+    {
+      "metric": "f1_macro",
+      "baseline": 0.9415497778865703,
+      "tuned": 0.9615905376486279,
+      "delta": 0.020040759762057547
+    },
+    {
+      "metric": "precision_weighted",
+      "baseline": 0.9428214963664228,
+      "tuned": 0.9621908960253778,
+      "delta": 0.01936939965895501
+    },
+    {
+      "metric": "recall_weighted",
+      "baseline": 0.94175,
+      "tuned": 0.96175,
+      "delta": 0.020000000000000018
+    },
+    {
+      "metric": "f1_weighted",
+      "baseline": 0.9418446995258499,
+      "tuned": 0.9617487297352486,
+      "delta": 0.019904030209398682
+    }
+  ],
+  "best_record": {
+    "iter": 13,
+    "num_layers": 2,
+    "units": 256,
+    "activation": "elu",
+    "dropout": 0.2,
+    "learning_rate": 0.001,
+    "optimizer": "adam",
+    "batch_size": 32,
+    "val_loss": 0.12594956159591675,
+    "val_acc": 0.9629166722297668,
+    "test_acc": 0.96175,
+    "train_epochs_ran": 50,
+    "duration_sec": 56.21565127372742
+  }
+}

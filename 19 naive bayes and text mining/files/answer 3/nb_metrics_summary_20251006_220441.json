@@ -1,0 +1,32 @@
+{
+  "accuracy": 0.925,
+  "precision_macro": 0.9363363592415498,
+  "recall_macro": 0.925,
+  "f1_macro": 0.9243821888819379,
+  "precision_weighted": 0.9363363592415499,
+  "recall_weighted": 0.925,
+  "f1_weighted": 0.9243821888819379,
+  "n_test": 400,
+  "classes": [
+    "alt.atheism",
+    "comp.graphics",
+    "comp.os.ms-windows.misc",
+    "comp.sys.ibm.pc.hardware",
+    "comp.sys.mac.hardware",
+    "comp.windows.x",
+    "misc.forsale",
+    "rec.autos",
+    "rec.motorcycles",
+    "rec.sport.baseball",
+    "rec.sport.hockey",
+    "sci.crypt",
+    "sci.electronics",
+    "sci.med",
+    "sci.space",
+    "soc.religion.christian",
+    "talk.politics.guns",
+    "talk.politics.mideast",
+    "talk.politics.misc",
+    "talk.religion.misc"
+  ]
+}

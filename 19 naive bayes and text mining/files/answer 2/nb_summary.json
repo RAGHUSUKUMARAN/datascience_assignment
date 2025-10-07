@@ -1,0 +1,36 @@
+{
+  "n_documents": 2000,
+  "n_classes": 20,
+  "classes": [
+    "alt.atheism",
+    "comp.graphics",
+    "comp.os.ms-windows.misc",
+    "comp.sys.ibm.pc.hardware",
+    "comp.sys.mac.hardware",
+    "comp.windows.x",
+    "misc.forsale",
+    "rec.autos",
+    "rec.motorcycles",
+    "rec.sport.baseball",
+    "rec.sport.hockey",
+    "sci.crypt",
+    "sci.electronics",
+    "sci.med",
+    "sci.space",
+    "soc.religion.christian",
+    "talk.politics.guns",
+    "talk.politics.mideast",
+    "talk.politics.misc",
+    "talk.religion.misc"
+  ],
+  "baseline_accuracy": 0.9275,
+  "tuned_grid_best": {
+    "clf__alpha": 1.0,
+    "tfidf__ngram_range": [
+      1,
+      2
+    ]
+  },
+  "tuned_cv_score": 0.9334999999999999,
+  "tuned_test_accuracy": 0.97
+}

@@ -1,0 +1,24 @@
+Evaluation Report - Naive Bayes Classification
+Dataset: blogs.csv
+Date: 2025-10-06T22:04:41.520301
+
+=== Summary Metrics ===
+Accuracy: 0.925000
+Macro F1: 0.924382 | Weighted F1: 0.924382
+
+=== Short discussion ===
+- The model is a Multinomial Naive Bayes on TF-IDF features (unigrams+bigrams).
+- Classes detected: 20. Per-class performance saved in the classification report: nb_classification_report_20251006_220441.txt
+- Check the confusion matrix CSV/PNG for which classes are frequently confused.
+
+=== Practical suggestions ===
+- If some classes have low recall, consider more training data or merging ambiguous classes.
+- Tune smoothing (alpha) and n-gram range (GridSearchCV) to try to improve metrics.
+- For sentiment nuance or long text, consider transformer-based classifiers.
+
+Files produced:
+- nb_classification_report_20251006_220441.txt
+- nb_confusion_matrix_20251006_220441.csv
+- nb_confusion_matrix_20251006_220441.png
+- nb_test_predictions_20251006_220441.csv
+- nb_metrics_summary_20251006_220441.json

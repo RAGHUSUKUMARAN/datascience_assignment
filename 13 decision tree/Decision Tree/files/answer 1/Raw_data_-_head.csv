@@ -1,0 +1,6 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,thal,num
+63,Male,typical angina,145,233,True,lv hypertrophy,150,False,2.3,downsloping,fixed defect,0
+41,Male,atypical angina,135,203,False,normal,132,False,0.0,flat,fixed defect,0
+57,Male,asymptomatic,140,192,False,normal,148,False,0.4,flat,fixed defect,0
+52,Male,typical angina,118,186,False,lv hypertrophy,190,False,0.0,flat,fixed defect,0
+57,Male,asymptomatic,110,201,False,normal,126,True,1.5,flat,fixed defect,0

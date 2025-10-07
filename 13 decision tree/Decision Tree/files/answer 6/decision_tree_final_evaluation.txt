@@ -1,0 +1,21 @@
+=== Decision Tree Final Evaluation ===
+
+Accuracy: 0.7709
+Precision: 0.8065
+Recall: 0.7780
+F1-score: 0.7920
+ROC-AUC: 0.8436
+
+Confusion Matrix:
+[[304  95]
+ [113 396]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.76      0.75       399
+           1       0.81      0.78      0.79       509
+
+    accuracy                           0.77       908
+   macro avg       0.77      0.77      0.77       908
+weighted avg       0.77      0.77      0.77       908

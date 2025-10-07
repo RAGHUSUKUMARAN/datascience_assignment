@@ -1,0 +1,6 @@
+age,sex,trestbps,chol,fbs,thalch,exang,oldpeak,target,cp_atypical angina,cp_non-anginal,cp_typical angina,restecg_normal,restecg_st-t abnormality,slope_flat,slope_upsloping,thal_normal,thal_reversable defect
+63,1,145,233,1,150,False,2.3,0,0,0,1,0,0,0,0,0,0
+41,1,135,203,0,132,False,0.0,0,1,0,0,1,0,1,0,0,0
+57,1,140,192,0,148,False,0.4,0,0,0,0,1,0,1,0,0,0
+52,1,118,186,0,190,False,0.0,0,0,0,1,0,0,1,0,0,0
+57,1,110,201,0,126,True,1.5,0,0,0,0,1,0,1,0,0,0

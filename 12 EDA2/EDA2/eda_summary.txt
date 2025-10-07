@@ -1,0 +1,77 @@
+Dataset shape: (32561, 15)
+
+
+Data types:
+
+age                int64
+workclass         object
+fnlwgt             int64
+education         object
+education_num      int64
+marital_status    object
+occupation        object
+relationship      object
+race              object
+sex               object
+capital_gain       int64
+capital_loss       int64
+hours_per_week     int64
+native_country    object
+income            object
+dtype: object
+
+
+First 5 rows:
+
+   age          workclass  fnlwgt  ... hours_per_week  native_country  income
+0   39          State-gov   77516  ...             40   United-States   <=50K
+1   50   Self-emp-not-inc   83311  ...             13   United-States   <=50K
+2   38            Private  215646  ...             40   United-States   <=50K
+3   53            Private  234721  ...             40   United-States   <=50K
+4   28            Private  338409  ...             40            Cuba   <=50K
+
+[5 rows x 15 columns]
+
+
+Missing values:
+
+age               0
+workclass         0
+fnlwgt            0
+education         0
+education_num     0
+marital_status    0
+occupation        0
+relationship      0
+race              0
+sex               0
+capital_gain      0
+capital_loss      0
+hours_per_week    0
+native_country    0
+income            0
+dtype: int64
+
+
+Unique values in workclass:
+
+[' State-gov' ' Self-emp-not-inc' ' Private' ' Federal-gov' ' Local-gov'
+ ' ?' ' Self-emp-inc' ' Without-pay' ' Never-worked']
+
+Unique values in occupation:
+
+[' Adm-clerical' ' Exec-managerial' ' Handlers-cleaners' ' Prof-specialty'
+ ' Other-service' ' Sales' ' Craft-repair' ' Transport-moving'
+ ' Farming-fishing' ' Machine-op-inspct' ' Tech-support' ' ?'
+ ' Protective-serv' ' Armed-Forces' ' Priv-house-serv']
+
+Unique values in native_country:
+
+[' United-States' ' Cuba' ' Jamaica' ' India' ' ?' ' Mexico' ' South'
+ ' Puerto-Rico' ' Honduras' ' England' ' Canada' ' Germany' ' Iran'
+ ' Philippines' ' Italy' ' Poland' ' Columbia' ' Cambodia' ' Thailand'
+ ' Ecuador' ' Laos' ' Taiwan' ' Haiti' ' Portugal' ' Dominican-Republic'
+ ' El-Salvador' ' France' ' Guatemala' ' China' ' Japan' ' Yugoslavia'
+ ' Peru' ' Outlying-US(Guam-USVI-etc)' ' Scotland' ' Trinadad&Tobago'
+ ' Greece' ' Nicaragua' ' Vietnam' ' Hong' ' Ireland' ' Hungary'
+ ' Holand-Netherlands']

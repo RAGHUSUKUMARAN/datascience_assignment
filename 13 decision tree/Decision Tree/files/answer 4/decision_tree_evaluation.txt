@@ -1,0 +1,19 @@
+Decision Tree — Baseline Evaluation
+Train shape: (726, 17)
+Test shape: (182, 17)
+
+Accuracy: 0.6758
+Precision: 0.7216
+Recall: 0.6863
+F1-score: 0.7035
+ROC-AUC: 0.6744
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.62      0.66      0.64        80
+           1       0.72      0.69      0.70       102
+
+    accuracy                           0.68       182
+   macro avg       0.67      0.67      0.67       182
+weighted avg       0.68      0.68      0.68       182

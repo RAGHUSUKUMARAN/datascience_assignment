@@ -1,0 +1,70 @@
+categorical,numeric,eta
+cap_shape,Unnamed: 0,0.0997667393833287
+cap_shape,cap_diameter,0.08486578950766553
+cap_shape,stalk_height,0.03776726123762722
+cap_surface,Unnamed: 0,0.05893622360920927
+cap_surface,stalk_height,0.05417503814585874
+cap_surface,cap_diameter,0.04987110930948559
+cap_color,Unnamed: 0,0.12359427324765962
+cap_color,stalk_height,0.09858398250890964
+cap_color,cap_diameter,0.0799897130992919
+bruises,stalk_height,0.06464379264824109
+bruises,cap_diameter,0.04694592789775228
+bruises,Unnamed: 0,0.04662696929620543
+odor,stalk_height,0.12440292142012666
+odor,Unnamed: 0,0.08648723597915471
+odor,cap_diameter,0.07773277656210494
+gill_attachment,stalk_height,0.0605923742750556
+gill_attachment,cap_diameter,0.051078735009759686
+gill_attachment,Unnamed: 0,0.02689693903544608
+gill_spacing,stalk_height,0.05444433833200952
+gill_spacing,Unnamed: 0,0.05277303037054988
+gill_spacing,cap_diameter,0.036433841197489894
+gill_size,cap_diameter,0.06874266108818343
+gill_size,Unnamed: 0,0.02299219117703764
+gill_size,stalk_height,0.0032728806458230857
+gill_color,Unnamed: 0,0.1131478254824644
+gill_color,stalk_height,0.096889228301222
+gill_color,cap_diameter,0.08304307315002539
+stalk_shape,stalk_height,0.03686184146815157
+stalk_shape,Unnamed: 0,0.02225536089836608
+stalk_shape,cap_diameter,0.004821863248688819
+stalk_root,cap_diameter,0.08389064726178401
+stalk_root,Unnamed: 0,0.05969849066034793
+stalk_root,stalk_height,0.05818331676322044
+stalk_surface_above_ring,Unnamed: 0,0.08500031797805141
+stalk_surface_above_ring,cap_diameter,0.07104267636455014
+stalk_surface_above_ring,stalk_height,0.06259273253584674
+stalk_surface_below_ring,cap_diameter,0.1345965459150039
+stalk_surface_below_ring,Unnamed: 0,0.12360340397208895
+stalk_surface_below_ring,stalk_height,0.035304921451568654
+stalk_color_above_ring,Unnamed: 0,0.13437097526229108
+stalk_color_above_ring,cap_diameter,0.09250613933077141
+stalk_color_above_ring,stalk_height,0.08335753161863597
+stalk_color_below_ring,Unnamed: 0,0.1526447415379731
+stalk_color_below_ring,cap_diameter,0.11977601944693586
+stalk_color_below_ring,stalk_height,0.08117119413818132
+veil_type,cap_diameter,0.05864549859915802
+veil_type,stalk_height,0.0553144753539891
+veil_type,Unnamed: 0,0.019657773022922303
+veil_color,Unnamed: 0,0.0498228132981947
+veil_color,cap_diameter,0.03929150697113022
+veil_color,stalk_height,0.03771745182243263
+ring_number,Unnamed: 0,0.1048489914515326
+ring_number,stalk_height,0.03443749479232725
+ring_number,cap_diameter,0.00198691156603434
+ring_type,cap_diameter,0.11805587446642875
+ring_type,stalk_height,0.07195051413415626
+ring_type,Unnamed: 0,0.06636002649586635
+spore_print_color,stalk_height,0.11023912288948648
+spore_print_color,cap_diameter,0.08898088508016803
+spore_print_color,Unnamed: 0,0.08057756751995754
+population,cap_diameter,0.12186846650879135
+population,Unnamed: 0,0.10481079747397055
+population,stalk_height,0.06003106096166967
+habitat,Unnamed: 0,0.08978986006104887
+habitat,stalk_height,0.08264062509627709
+habitat,cap_diameter,0.07056946443443338
+class,cap_diameter,0.019707403618348687
+class,stalk_height,0.01365503295913571
+class,Unnamed: 0,0.005901804637110895

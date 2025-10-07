@@ -1,0 +1,2 @@
+Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,Title,HasCabin
+3,male,30.0,0,0,32.0,S,Mr,0
